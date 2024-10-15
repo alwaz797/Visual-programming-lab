@@ -1,0 +1,85 @@
+using System;
+
+class Program{
+    static void Main(string[] args){
+        Program z=new Program();
+        Console.WriteLine("Exercise 1");
+        Task1();
+        Console.WriteLine("Exercise 2");
+        Task2();
+
+
+        
+        Console.WriteLine("Exercise 4");
+        Task4();
+        Console.WriteLine("Exercise 5");
+        Task5();
+     
+
+
+
+    }
+    static void Task1()
+    {
+        int[,] numbers2D = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
+        Print2DArray(numbers2D);
+    }
+
+    static void Print2DArray(int[,] array)
+    {
+        for (int i = 0; i < array.GetLength(0); i++)
+        {
+            for (int j = 0; j < array.GetLength(1); j++)
+            {
+                Console.Write(array[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    static void Task2()
+    {
+        string[] s = { "hello ", "and ", "welcome ", "to ", "this ", "demo! " };
+        string merge=string.Concat(s);
+        Console.WriteLine(merge);
+    }
+    static void Task4()
+    {
+        int[] ratings = { 5, 4, 3, 5, 2, 1, 4, 5, 5, 3, 2, 4, 3, 5, 4, 2, 1, 1, 5, 4,
+                          3, 5, 5, 4, 3, 2, 1, 5, 4, 3, 5, 5, 2, 1, 5, 4, 3, 5,
+                          5, 4, 3, 5 };
+
+        int[] frequency = new int[5];
+        foreach (int rating in ratings)
+        {
+            frequency[rating - 1]++;
+        }
+
+        for (int i = 0; i < frequency.Length; i++)
+        {
+            Console.WriteLine($"Response {i + 1} given by: {frequency[i]} people");
+        }
+    }
+    static void Task5()
+    {
+        Console.WriteLine("Enter a decimal number:");
+        int decimalNumber = int.Parse(Console.ReadLine());
+        string binaryNumber = ConvertToBinary(decimalNumber);
+        Console.WriteLine($"Binary of {decimalNumber} is: {binaryNumber}");
+
+        Console.WriteLine("Enter a binary number:");
+        string binaryInput = Console.ReadLine();
+        int decimalFromBinary = ConvertFromBinary(binaryInput);
+        Console.WriteLine($"Decimal of {binaryInput} is: {decimalFromBinary}");
+    }
+
+    static string ConvertToBinary(int number)
+    {
+        return Convert.ToString(number, 2);
+    }
+
+    static int ConvertFromBinary(string binary)
+    {
+        return Convert.ToInt32(binary, 2);
+    }
+}
