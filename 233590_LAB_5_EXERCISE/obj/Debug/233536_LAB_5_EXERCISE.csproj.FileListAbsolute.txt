@@ -1,0 +1,2 @@
+C:\Users\lamia fatima\source\repos\233536_LAB_5_EXERCISE\233536_LAB_5_EXERCISE\obj\Debug\233536_LAB_5_EXERCISE.csproj.AssemblyReference.cache
+C:\Users\lamia fatima\source\repos\233536_LAB_5_EXERCISE\233536_LAB_5_EXERCISE\obj\Debug\233536_LAB_5_EXERCISE.csproj.CoreCompileInputs.cache
