@@ -1,0 +1,7 @@
+C:\Users\ALWAZ SIDDIQUE\source\repos\233590_lab mid\233590_lab mid\bin\Debug\233590_lab mid.exe.config
+C:\Users\ALWAZ SIDDIQUE\source\repos\233590_lab mid\233590_lab mid\bin\Debug\233590_lab mid.exe
+C:\Users\ALWAZ SIDDIQUE\source\repos\233590_lab mid\233590_lab mid\bin\Debug\233590_lab mid.pdb
+C:\Users\ALWAZ SIDDIQUE\source\repos\233590_lab mid\233590_lab mid\obj\Debug\233590_lab mid.csproj.AssemblyReference.cache
+C:\Users\ALWAZ SIDDIQUE\source\repos\233590_lab mid\233590_lab mid\obj\Debug\233590_lab mid.csproj.CoreCompileInputs.cache
+C:\Users\ALWAZ SIDDIQUE\source\repos\233590_lab mid\233590_lab mid\obj\Debug\233590_lab mid.exe
+C:\Users\ALWAZ SIDDIQUE\source\repos\233590_lab mid\233590_lab mid\obj\Debug\233590_lab mid.pdb
