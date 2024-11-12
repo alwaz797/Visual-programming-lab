@@ -1,0 +1,7 @@
+D:\viusal_prog_lab_06\viusal_prog_lab_06\bin\Debug\viusal_prog_lab_06.exe.config
+D:\viusal_prog_lab_06\viusal_prog_lab_06\bin\Debug\viusal_prog_lab_06.exe
+D:\viusal_prog_lab_06\viusal_prog_lab_06\bin\Debug\viusal_prog_lab_06.pdb
+D:\viusal_prog_lab_06\viusal_prog_lab_06\obj\Debug\viusal_prog_lab_06.csproj.AssemblyReference.cache
+D:\viusal_prog_lab_06\viusal_prog_lab_06\obj\Debug\viusal_prog_lab_06.csproj.CoreCompileInputs.cache
+D:\viusal_prog_lab_06\viusal_prog_lab_06\obj\Debug\viusal_prog_lab_06.exe
+D:\viusal_prog_lab_06\viusal_prog_lab_06\obj\Debug\viusal_prog_lab_06.pdb
